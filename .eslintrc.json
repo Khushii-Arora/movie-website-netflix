@@ -36,9 +36,5 @@
     "no-bitwise": "off",
     "operator-linebreak": "off",
     "indent": "off"
-  },
-  "ignorePatterns": [
-    "dist/",
-    "build/"
-  ]
+  }
 }
